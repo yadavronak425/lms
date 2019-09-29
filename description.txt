@@ -1,0 +1,7 @@
+This app is developed for library management.
+
+-> For Back-end used Node.js and it's depended framework.
+-> For Database used MongoDB.
+-> For Front-end used Angular--optional not sure.
+
+ 
